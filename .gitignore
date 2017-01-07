@@ -1,4 +1,4 @@
 .DS_Store
-*.doc
-*.csv
-code/AHRF_2015-2016.zip.2
+*.[pyc]
+*.[csv]
+code/DATA/*
